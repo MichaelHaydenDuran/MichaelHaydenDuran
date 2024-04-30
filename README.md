@@ -8,7 +8,7 @@ I am a student at the University of North Alabama. I am pursuing a BBA with a ma
 
 * 🌍  I'm based in Florence, Alabama
 * ✉️  You can contact me at [me@haydenduran.com](mailto:me@haydenduran.com)
-* 🧠  I'm learning Web Development and Java
+* 🧠  I'm currently learning Web Development and Java
 
 ### Skills
 
